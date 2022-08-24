@@ -1,0 +1,10 @@
+/node_modules/
+/build/
+/.next/
+.idea
+.vscode
+*.log*
+.module-cache
+/dist/
+/config/
+build.sh
